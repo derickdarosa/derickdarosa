@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Derick
 
-<!--
-**derickdarosa/derickdarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web em transição de carreira. Vim do atendimento ao cliente e da produção industrial, e trouxe dessas áreas algo que falta em muito código por aí: a mania de resolver o problema de quem está do outro lado.
 
-Here are some ideas to get you started:
+Hoje desenvolvo aplicações com **JavaScript, Vue.js, PHP e Laravel**, sempre com projetos reais nada de tutorial copiado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou construindo
+
+**[ConsultarPlacas](https://github.com/derickdarosa/ConsultarPlacas)** — Consulta de placas de veículos com PHP e JavaScript. Próximo passo: sugestão de manutenção baseada na quilometragem.
+
+**Revizzi** - Sistema de gestão financeira para oficina mecânica, feito em Vue.js + PHP. Controle de receitas e despesas, calculadora de precificação de peças, dashboard e relatórios. Nasceu de uma necessidade real do dia a dia da oficina.
+
+**Posso IR** - Conceito de produto: status de funcionamento de estabelecimentos em tempo real, construído com Laravel.
+
+## Stack
+
+`HTML` `CSS` `JavaScript` `Vue.js` `PHP` `Laravel` `MySQL` `Git` `Figma`
+
+## Um pouco mais
+
+- Aprendo na prática: cada conceito novo vira parte de um projeto
+- Comecei com WordPress e Elementor, hoje escrevo tudo na mão
+- Estudando ES6+, APIs REST e boas práticas de Git para o mercado
+
+## Contato
+
+📍 Gaspar, SC
+💼 [LinkedIn](https://linkedin.com/in/derick-da-rosa)
+📫 contato@derickrosa.com.br
